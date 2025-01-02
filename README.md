@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Java.**
 
-- 💬 Ask me about **Javascript, Reactjs, Nextjs.**
+- 💬 Ask me about **Javascript, Reactjs, Nextjs, Angular, Vuejs.**
 
 - 📫 How to reach me **lengotandung161298@gmail.com**
 
