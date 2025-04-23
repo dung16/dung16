@@ -11,6 +11,8 @@
 - 💬 Ask me about **Javascript, Reactjs, Nextjs, Angular, Vuejs.**
 
 - 📫 How to reach me **lengotandung161298@gmail.com**
+  
+- 🥰 Gitlab **https://gitlab.com/dung16**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
